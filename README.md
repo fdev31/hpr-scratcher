@@ -1,3 +1,5 @@
+# MOVED TO https://github.com/hyprland-community/hpr-scratcher
+
 # Installation
 
 ```
